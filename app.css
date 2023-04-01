@@ -1,0 +1,23 @@
+body {
+    background-color: #f5f5dc;
+    font-family: 'Roboto Mono', monospace;
+    font-color: #800080
+}
+
+img {
+  border-radius: 50%;
+}
+
+button{
+    font-family: 'Roboto Mono', monospace;
+    background-color: white;
+    height: 75px;
+    width: 300px;
+    font-size: 30px;
+    margin-top: 1%;
+}
+
+.description {
+    margin-left: 33%;
+    margin-right: 33%;
+}
